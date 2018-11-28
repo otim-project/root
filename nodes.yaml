@@ -1,2 +1,4 @@
 - key: 'toen-mastercourse'
-  repo: 'jakebian/OTIM-toen-mastercourse'
+  repo: 'otim-project/OTIM-toen-mastercourse'
+- key: 'sga1'
+  repo: 'otim-project/translate-SGAI'
